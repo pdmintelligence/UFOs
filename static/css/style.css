@@ -1,0 +1,12 @@
+body {
+
+    color: #f7f7f7;
+  }
+.jumbotron {
+    background-image: url("C://Users//pdmin//Desktop//Bootcamp//Module11//static//images/nasa.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
+
+
+  /*This section was altered from original code to direct path directly into specific location,,,
